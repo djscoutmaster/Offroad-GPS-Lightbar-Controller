@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-04-15T20:43:19Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "slc_pcb_v1"
+        },
+        "Owner": "clifford Olawaiye <jclif6@gmail.com>",
+        "Size": {
+            "X": 44.45,
+            "Y": 62.23
+        }
+    }
+}
